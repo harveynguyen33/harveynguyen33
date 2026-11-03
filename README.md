@@ -1,6 +1,6 @@
 ### Harvey Nguyen — Tech Goblin
 
-Break · Build · Repeat. I build small, sharp tools and write about the wreckage.
+Break · Build · Repeat. I explore, I fail, I destroy, I rebuild. Then I move on to the next.
 
 🔧 **Shipping:** [Gobigrams](https://gobigrams.tech-goblin.com) — diagrams in your browser, real vector SVG export, no account
 
